@@ -1,4 +1,4 @@
-# Bash script function
+# Bash script functions
 
 ## get admin rights for a folder
 ```
